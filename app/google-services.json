@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402596636068",
+    "firebase_url": "https://shinhan-fcm-test.firebaseio.com",
+    "project_id": "shinhan-fcm-test",
+    "storage_bucket": "shinhan-fcm-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402596636068:android:29d47c8ce4836493a04d31",
+        "android_client_info": {
+          "package_name": "com.example.shinhantest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402596636068-mu8d9cc7utnm8sluh9ar7a666ke2ihh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shinhantest",
+            "certificate_hash": "da4b0275bdb2df4a000f61b2eb335ea0187b20b6"
+          }
+        },
+        {
+          "client_id": "402596636068-9rs9p2dfeougdedfkr7j5mu4qaq4c2ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD8mW3CzPTvJZFemhMZWjdmC4hF2WVGec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402596636068-9rs9p2dfeougdedfkr7j5mu4qaq4c2ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
